@@ -7,14 +7,42 @@
     font-family: "fantasy", papyrus;
     text-decoration-line: overline underline;
     color: rgb(109, 83, 52);
+    margin-top: 60px;
+    font-size: 20px;
 }
-.ul {
+.head-list {
     text-align: center;
     list-style-type: none;
     list-style-position: inside;
     font-family: "fantasy", copperplate;
-    font-size: 20px;
+    font-size: 35px;
     a:visited {
   color: rgb(109, 83, 52);
 }
+}
+.recipe-home {
+    color: black;
+    font-family: "fantasy", copperplate;
+    font-size: 30px;
+}
+.recipe-head {
+    color: rgb(109, 83, 52);
+    text-align: center;
+    text-decoration-line: overline underline;
+    font-family: "fantasy", copperplate;
+}
+.img {
+    outline: 15px rgb(109, 83, 52);
+    outline-style: double;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headings {
+    font-size: 30px;
+    font-family: "fantasy", copperplate;
+    text-decoration-line: overline;
+}
+.text {
+    font-family: "fantasy", copperplate;
 }
